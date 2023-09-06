@@ -6,5 +6,6 @@ Then, use a serial communication tool like ```screen``` to monitor the serial po
 
 When ```screen``` is starting, the screen will print the character, which will be sent from STM32 USART, after you type any key.
 
-* The animation has beenn speeded up.
+* The animation has been speeded up.
+
 ![](typewriter.gif)
